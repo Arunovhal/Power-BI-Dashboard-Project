@@ -1,0 +1,21 @@
+stu_rollno,full_name,date_of_birth,gender,admission_date
+1,John Smith,15-03-2000,M,17-05-2023
+2,Jane Doe,20-07-2001,F,09-08-2022
+3,Michael Johnson,10-01-2002,M,28-08-2021
+4,Emily Davis,05-11-2000,F,10-09-2021
+5,Robert Wilson,25-04-2003,M,30-08-2021
+6,Maria Garcia,12-09-2001,F,03-09-2022
+7,William Brown,30-12-2002,M,27-08-2021
+8,Sophia Lee,08-06-2001,F,02-09-2021
+9,James Martinez,18-05-2000,M,07-09-2021
+10,Olivia Taylor,03-02-2003,F,08-09-2020
+11,Daniel Anderson,22-11-2001,M,04-09-2021
+12,Chloe White,14-08-2002,F,06-09-2021
+13,Matthew Thomas,02-10-2000,M,29-08-2021
+14,Ava Harris,30-05-2003,F,31-08-2021
+15,David Johnson,19-04-2001,M,09-09-2022
+16,Emma Miller,07-07-2002,F,26-08-2021
+17,Andrew Wilson,26-09-2000,M,11-09-2021
+18,Isabella Clark,08-01-2003,F,25-08-2021
+19,Joseph Walker,17-03-2001,M,24-08-2020
+20,Sophia Robinson,23-06-2002,F,12-09-2021

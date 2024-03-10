@@ -1,0 +1,21 @@
+rollno,course,percentage,grade,result
+1,Mathematics,95.50,A,Pass
+2,Science,30.72,E,Fail
+3,History,75.25,C,Pass
+4,English,34.00,E,Fail
+5,"Computer Science",33.33,E,Fail
+6,Physics,76.50,C,Pass
+7,Chemistry,91.25,A,Pass
+8,Geography,82.00,B,Pass
+9,Biology,74.75,C,Pass
+10,Art,87.00,B,Pass
+11,Economics,60.45,D,Pass
+12,"Physical Education",70.50,C,Pass
+13,Music,85.75,B,Pass
+14,Psychology,77.00,C,Pass
+15,Sociology,94.50,A,Pass
+16,"Political Science",58.25,D,Pass
+17,"Business Studies",73.75,C,Pass
+18,"Foreign Language",86.00,B,Pass
+19,"Physical Science",80.25,B,Pass
+20,"Environmental Science",27.00,E,Fail
